@@ -1,0 +1,5 @@
+E:\Important File\Programs\Visual Studio\Mathod\Object\Object3\Object3\bin\Debug\Object3.exe.config
+E:\Important File\Programs\Visual Studio\Mathod\Object\Object3\Object3\bin\Debug\Object3.exe
+E:\Important File\Programs\Visual Studio\Mathod\Object\Object3\Object3\bin\Debug\Object3.pdb
+E:\Important File\Programs\Visual Studio\Mathod\Object\Object3\Object3\obj\Debug\Object3.exe
+E:\Important File\Programs\Visual Studio\Mathod\Object\Object3\Object3\obj\Debug\Object3.pdb

@@ -1,0 +1,5 @@
+E:\Important File\Programs\Visual Studio\Mathod\Object\Shop\bin\Debug\Shop.exe.config
+E:\Important File\Programs\Visual Studio\Mathod\Object\Shop\bin\Debug\Shop.exe
+E:\Important File\Programs\Visual Studio\Mathod\Object\Shop\bin\Debug\Shop.pdb
+E:\Important File\Programs\Visual Studio\Mathod\Object\Shop\obj\Debug\Shop.exe
+E:\Important File\Programs\Visual Studio\Mathod\Object\Shop\obj\Debug\Shop.pdb

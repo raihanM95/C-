@@ -1,0 +1,68 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApplication1
+{
+    class Room
+    {
+        public double Width;
+        public double Length;
+        public double Depth;
+
+        public Room (double W, double L, double D)
+        {
+            Width = W;
+            Length = L;
+            Depth = D;
+        }
+
+        public double calcuateVolumn()
+        {
+            return Width * Length * Depth;
+        }
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Enter Width: ");
+            double p = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Enter Length: ");
+            double q = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Enter Depth: ");
+            double r = Convert.ToDouble(Console.ReadLine());
+            Room Box1 = new Room(p, q, r);
+
+            double a = Box1.calcuateVolumn();
+            Console.WriteLine(a);
+
+            Console.WriteLine("Enter Width: ");
+            double d = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Enter Length: ");
+            double e = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Enter Depth: ");
+            double f = Convert.ToDouble(Console.ReadLine());
+            Room Box2 = new Room(d, e, f);
+
+            double b = Box2.calcuateVolumn();
+            Console.WriteLine(b);
+
+            Console.WriteLine("Enter Width: ");
+            double x = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Enter Length: ");
+            double y = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Enter Depth: ");
+            double z = Convert.ToDouble(Console.ReadLine());
+            Room Box3 = new Room(x, y, z);
+
+            double c = Box3.calcuateVolumn();
+            Console.WriteLine(c);
+
+            Console.ReadLine();
+        }
+    }
+}

@@ -1,0 +1,9 @@
+E:\Important File\Programs\Visual Studio\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+E:\Important File\Programs\Visual Studio\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+E:\Important File\Programs\Visual Studio\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+E:\Important File\Programs\Visual Studio\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+E:\Important File\Programs\Visual Studio\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+E:\Important File\Programs\Visual Studio\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+E:\Important File\Programs\Visual Studio\SWE-132_(C#)\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+E:\Important File\Programs\Visual Studio\SWE-132_(C#)\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+E:\Important File\Programs\Visual Studio\SWE-132_(C#)\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

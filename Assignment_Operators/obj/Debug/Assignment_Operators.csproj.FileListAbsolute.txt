@@ -1,0 +1,6 @@
+E:\Important File\Programs\Visual Studio\Assignment_Operators\bin\Debug\Assignment_Operators.exe.config
+E:\Important File\Programs\Visual Studio\Assignment_Operators\bin\Debug\Assignment_Operators.exe
+E:\Important File\Programs\Visual Studio\Assignment_Operators\bin\Debug\Assignment_Operators.pdb
+E:\Important File\Programs\Visual Studio\Assignment_Operators\obj\Debug\Assignment_Operators.exe
+E:\Important File\Programs\Visual Studio\Assignment_Operators\obj\Debug\Assignment_Operators.pdb
+E:\Important File\Programs\Visual Studio\Assignment_Operators\obj\Debug\Assignment_Operators.csprojResolveAssemblyReference.cache

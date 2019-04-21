@@ -1,0 +1,44 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Salary
+{
+    class Program
+    {
+        static double calculateAnunalSalary(string post)
+        {
+            if(post == "Manager")
+            {
+                return 20000 * 12;
+            }
+            else if(post == "Supervaisor")
+            {
+                return 15000 * 12;
+            }
+            else
+            {
+                return 0;
+            }
+        }
+        static string calculateBonus(string a)
+        {
+            if (calculateAnunalSalary(a) > 200000)
+            {
+                return "5% bonus";
+            }
+            else
+            {
+                return "No bonus";
+            }
+        }
+        static void Main(string[] args)
+        {
+            string x = calculateBonus("Manager");
+            Console.WriteLine(x);
+            Console.ReadLine();
+        }
+    }
+}

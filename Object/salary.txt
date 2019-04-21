@@ -1,0 +1,57 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace ConsoleApplication1
+{
+    class employee
+    {
+        public string Id;
+        public string Name;
+        public double Salary;
+
+        public string calculateSalary()
+        {
+            if (Salary > 10000)
+            {
+                return "supervisor";
+            }
+            else if (Salary > 15000)
+            {
+                return "manager";
+            }
+            else {
+                return "no";
+            }
+        }
+    }
+    class Program
+    {
+        static void Main(string[] args)
+        {       
+            employee Jamal = new employee();
+            Console.WriteLine("Enter Id: ");
+            Jamal.Id = Console.ReadLine();
+            Console.WriteLine("Enter Name: ");
+            Jamal.Name= Console.ReadLine();
+            Console.WriteLine("Enter Slary: ");
+            Jamal.Salary = Convert.ToDouble(Console.ReadLine());
+
+            employee Kamal = new employee();
+            Console.WriteLine("Enter Id: ");
+            Kamal.Id = Console.ReadLine();
+            Console.WriteLine("Enter Name: ");
+            Kamal.Name= Console.ReadLine();
+            Console.WriteLine("Enter Slary: ");
+            Kamal.Salary = Convert.ToDouble(Console.ReadLine());
+
+            string t = Jamal.calculateSalary();
+            Console.WriteLine(t);
+
+            string u = Kamal.calculateSalary();
+            Console.WriteLine(u);
+            Console.ReadLine();
+        }
+    }
+}

@@ -1,0 +1,48 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Find_MaxNumber
+{
+    class Program
+    {
+        static int findMax(int a, int b)
+        {
+            if (a > b)
+            {
+                return a;
+            }
+            else
+            {
+                return b;
+            }
+        }
+        static int findMin(int a, int b)
+        {
+            if (a > b)
+            {
+                return b;
+            }
+            else
+            {
+                return a;
+            }
+        }
+        static double div(int a, int b)
+        {
+            return findMax(a, b) / findMin(a, b);
+        }
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Enter first number: ");
+            int number1 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter second number: ");
+            int number2 = Convert.ToInt32(Console.ReadLine());
+            double a = div(number1, number2);
+            Console.WriteLine("Two number of division {0}", a);
+            Console.ReadLine();
+        }
+    }
+}

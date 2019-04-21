@@ -1,0 +1,6 @@
+E:\Important File\Programs\Visual Studio\Mathod\Object\Object\bin\Debug\Object.exe.config
+E:\Important File\Programs\Visual Studio\Mathod\Object\Object\bin\Debug\Object.exe
+E:\Important File\Programs\Visual Studio\Mathod\Object\Object\bin\Debug\Object.pdb
+E:\Important File\Programs\Visual Studio\Mathod\Object\Object\obj\Debug\Object.csprojResolveAssemblyReference.cache
+E:\Important File\Programs\Visual Studio\Mathod\Object\Object\obj\Debug\Object.exe
+E:\Important File\Programs\Visual Studio\Mathod\Object\Object\obj\Debug\Object.pdb

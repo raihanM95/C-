@@ -1,0 +1,31 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace ConsoleApplication2
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int[,] arr = new int[2, 4] { { 1, 0, 0, 1 }, { 1, 1, 0, 1 } };
+            for (int i = 0; i < 2; i++)
+            {
+                for (int j = 0; j < 4; j++)
+                {
+                    if (arr[i, j] == 0)
+                    {
+                        Console.Write("Yes \n");
+                    }
+                    else
+                    {
+                        Console.Write("No \n");
+                    }
+                }
+            }
+
+            Console.ReadLine();
+        }
+    }
+}

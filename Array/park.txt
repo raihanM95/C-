@@ -1,0 +1,49 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApplication1
+{
+    class Parking
+    {
+        public string Shift;
+        public int[,] parkingPlace;
+
+        public Parking (string S, int[,] P)
+        {
+            Shift = S;
+            parkingPlace = P;
+        }
+
+        public void chackParking()
+        {
+            for(int i = 0; i < 2; i++)
+            {
+                for(int j = 0; j < 4; j++)
+                {
+                    if(parkingPlace[i,j]==0)
+                    {
+                        Console.Write("Aviable \n");
+                    }
+                    else
+                    {
+                        Console.Write("Not Aviable \n");
+                    }
+                }
+            }
+        }
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int[,] Park = new int [2, 4] { { 1, 0, 0, 1 }, { 1, 1, 0, 1 } };
+            Parking P1 = new Parking("Day", Park);
+            P1.chackParking();
+            Console.ReadLine();
+        }
+    }
+}

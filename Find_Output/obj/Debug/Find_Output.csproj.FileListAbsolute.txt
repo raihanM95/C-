@@ -1,0 +1,5 @@
+E:\Important File\Programs\Visual Studio\Find_Output\bin\Debug\Find_Output.exe.config
+E:\Important File\Programs\Visual Studio\Find_Output\bin\Debug\Find_Output.exe
+E:\Important File\Programs\Visual Studio\Find_Output\bin\Debug\Find_Output.pdb
+E:\Important File\Programs\Visual Studio\Find_Output\obj\Debug\Find_Output.exe
+E:\Important File\Programs\Visual Studio\Find_Output\obj\Debug\Find_Output.pdb

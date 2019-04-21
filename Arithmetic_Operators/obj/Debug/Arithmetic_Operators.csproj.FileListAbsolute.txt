@@ -1,0 +1,6 @@
+E:\Important File\Programs\Visual Studio\Arithmetic_Operators\bin\Debug\Arithmetic_Operators.exe.config
+E:\Important File\Programs\Visual Studio\Arithmetic_Operators\bin\Debug\Arithmetic_Operators.exe
+E:\Important File\Programs\Visual Studio\Arithmetic_Operators\bin\Debug\Arithmetic_Operators.pdb
+E:\Important File\Programs\Visual Studio\Arithmetic_Operators\obj\Debug\Arithmetic_Operators.exe
+E:\Important File\Programs\Visual Studio\Arithmetic_Operators\obj\Debug\Arithmetic_Operators.pdb
+E:\Important File\Programs\Visual Studio\Arithmetic_Operators\obj\Debug\Arithmetic_Operators.csprojResolveAssemblyReference.cache

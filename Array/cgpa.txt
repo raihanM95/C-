@@ -1,0 +1,42 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApplication5
+{
+    class Student
+    {
+        public string Id;
+        public string Name;
+
+        public Student( string I, string N)
+        {
+            Id = I;
+            Name = N;
+        }
+
+        public double calculateCGPA(double csharp, double algo, double data)
+        {
+            return (csharp * 4 + algo * 4 + data * 4) / 12;
+        }
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            double[] CGPA = new double[3];
+            int i;
+            for(i = 0; i < 3; i++)
+            {
+                Console.WriteLine("Enter CGPA {0}: ", i);
+                CGPA[i] = Convert.ToDouble(Console.ReadLine());
+
+                Student Omi = new Student(161, Omi);
+
+            }
+        }
+    }
+}

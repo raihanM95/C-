@@ -1,0 +1,8 @@
+E:\Important File\Programs\Visual Studio\Infinite_Loop\bin\Debug\Infinite_Loop.exe.config
+E:\Important File\Programs\Visual Studio\Infinite_Loop\bin\Debug\Infinite_Loop.exe
+E:\Important File\Programs\Visual Studio\Infinite_Loop\bin\Debug\Infinite_Loop.pdb
+E:\Important File\Programs\Visual Studio\Infinite_Loop\obj\Debug\Infinite_Loop.exe
+E:\Important File\Programs\Visual Studio\Infinite_Loop\obj\Debug\Infinite_Loop.pdb
+E:\Important File\Programs\Visual Studio\SWE-132_(C#)\Infinite_Loop\bin\Debug\Infinite_Loop.exe.config
+E:\Important File\Programs\Visual Studio\SWE-132_(C#)\Infinite_Loop\obj\Debug\Infinite_Loop.exe
+E:\Important File\Programs\Visual Studio\SWE-132_(C#)\Infinite_Loop\obj\Debug\Infinite_Loop.pdb

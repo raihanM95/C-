@@ -1,0 +1,8 @@
+E:\Important File\Programs\Visual Studio\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+E:\Important File\Programs\Visual Studio\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+E:\Important File\Programs\Visual Studio\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+E:\Important File\Programs\Visual Studio\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+E:\Important File\Programs\Visual Studio\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+E:\Important File\Programs\Visual Studio\SWE-132_(C#)\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+E:\Important File\Programs\Visual Studio\SWE-132_(C#)\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+E:\Important File\Programs\Visual Studio\SWE-132_(C#)\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

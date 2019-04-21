@@ -1,0 +1,9 @@
+E:\Important File\Programs\Visual Studio\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+E:\Important File\Programs\Visual Studio\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+E:\Important File\Programs\Visual Studio\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+E:\Important File\Programs\Visual Studio\ConsoleApplication5\obj\Debug\ConsoleApplication5.csprojResolveAssemblyReference.cache
+E:\Important File\Programs\Visual Studio\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+E:\Important File\Programs\Visual Studio\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+E:\Important File\Programs\Visual Studio\SWE-132_(C#)\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+E:\Important File\Programs\Visual Studio\SWE-132_(C#)\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+E:\Important File\Programs\Visual Studio\SWE-132_(C#)\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb

@@ -1,0 +1,5 @@
+E:\Important File\Programs\Visual Studio\Mathod\Object\Object4\bin\Debug\Object4.exe.config
+E:\Important File\Programs\Visual Studio\Mathod\Object\Object4\bin\Debug\Object4.exe
+E:\Important File\Programs\Visual Studio\Mathod\Object\Object4\bin\Debug\Object4.pdb
+E:\Important File\Programs\Visual Studio\Mathod\Object\Object4\obj\Debug\Object4.exe
+E:\Important File\Programs\Visual Studio\Mathod\Object\Object4\obj\Debug\Object4.pdb

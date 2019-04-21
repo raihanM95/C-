@@ -1,0 +1,5 @@
+E:\Important File\Programs\Visual Studio\Operator_Precedence\bin\Debug\Operator_Precedence.exe.config
+E:\Important File\Programs\Visual Studio\Operator_Precedence\bin\Debug\Operator_Precedence.exe
+E:\Important File\Programs\Visual Studio\Operator_Precedence\bin\Debug\Operator_Precedence.pdb
+E:\Important File\Programs\Visual Studio\Operator_Precedence\obj\Debug\Operator_Precedence.exe
+E:\Important File\Programs\Visual Studio\Operator_Precedence\obj\Debug\Operator_Precedence.pdb

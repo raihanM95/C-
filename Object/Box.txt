@@ -1,0 +1,53 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApplication1
+{
+    class Room
+    {
+        public double Width;
+        public double Length;
+        public double Depth;
+
+        public void SetValus(double W, double L, double D)
+        {
+            Width = W;
+            Length = L;
+            Depth = D;
+        }
+
+        public double CalcuateVolumn()
+        {
+            return Width * Length * Depth;
+        }
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Room Box1 = new Room();
+            Box1.SetValus(4.2, 4.3, 3.2);
+
+            double a = Box1.CalcuateVolumn();
+            Console.WriteLine(a);
+
+            Room Box2 = new Room();
+            Box2.SetValus(4.2, 4.3, 3.2);
+
+            double b = Box2.CalcuateVolumn();
+            Console.WriteLine(b);
+
+            Room Box3 = new Room();
+            Box3.SetValus(4.2, 4.3, 3.2);
+
+            double c = Box3.CalcuateVolumn();
+            Console.WriteLine(c);
+
+            Console.ReadLine();
+        }
+    }
+}

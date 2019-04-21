@@ -1,0 +1,6 @@
+E:\Important File\Programs\Visual Studio\Mathod\Object\Parking\Parking\bin\Debug\Parking.exe.config
+E:\Important File\Programs\Visual Studio\Mathod\Object\Parking\Parking\bin\Debug\Parking.exe
+E:\Important File\Programs\Visual Studio\Mathod\Object\Parking\Parking\bin\Debug\Parking.pdb
+E:\Important File\Programs\Visual Studio\Mathod\Object\Parking\Parking\obj\Debug\Parking.csprojResolveAssemblyReference.cache
+E:\Important File\Programs\Visual Studio\Mathod\Object\Parking\Parking\obj\Debug\Parking.exe
+E:\Important File\Programs\Visual Studio\Mathod\Object\Parking\Parking\obj\Debug\Parking.pdb

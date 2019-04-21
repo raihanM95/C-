@@ -1,0 +1,5 @@
+E:\Important File\Programs\Visual Studio\Relationa_Operators\bin\Debug\Relationa_Operators.exe.config
+E:\Important File\Programs\Visual Studio\Relationa_Operators\bin\Debug\Relationa_Operators.exe
+E:\Important File\Programs\Visual Studio\Relationa_Operators\bin\Debug\Relationa_Operators.pdb
+E:\Important File\Programs\Visual Studio\Relationa_Operators\obj\Debug\Relationa_Operators.exe
+E:\Important File\Programs\Visual Studio\Relationa_Operators\obj\Debug\Relationa_Operators.pdb
